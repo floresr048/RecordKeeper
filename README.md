@@ -7,5 +7,5 @@ The program was built to support data with the following format, YearPlayed:Winn
 The simple UI has 4 functions that are called when the appropriate numbers are inputted.
 1 - Choose a file with the appropriately formatted data ;; 
 2 - Create and populate the tree ;; 
-3 - Traverse the tree and displays data both in a seperate window and in within the IDE ;; 
+3 - Traverse the tree and displays data both in a seperate window and within the IDE ;; 
 4 - Exit the program ;; 
